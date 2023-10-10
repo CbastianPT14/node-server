@@ -1,0 +1,12 @@
+{
+  "name": "lista-de-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node Lista.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
